@@ -1,0 +1,7 @@
+.idea/
+.vscode/
+target/
+.allure/
+*.iml
+*.log
+.DS_Store
